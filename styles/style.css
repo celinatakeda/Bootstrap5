@@ -171,7 +171,7 @@ main {
         font-size: var(--fs-40);
     }
 
-    .main-content__input-container {
+    .main-content__input-container input {
         height: 70px;
     }
 
