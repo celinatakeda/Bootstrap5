@@ -2,10 +2,14 @@
 
 Projeto da mentoria com Vinicius Oliveira do bootcamp Take Blip
 
-Passo à passo
-
-1. Copiar do bootstrap5 o código do Starter template 
+Neste projeto foi recriado a interface do Netflix utilizando o Bootstrap para construção de layouts responsivivos com CSS. 
 
 ## Links Úteis
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+https://fonts.google.com/
+
+https://unsplash.com/images/stock
+
+https://cssgradient.io/
