@@ -2,7 +2,13 @@
 
 Projeto da mentoria com Vinicius Oliveira do bootcamp Take Blip
 
-Neste projeto foi recriado a interface do Netflix utilizando o Bootstrap para construção de layouts responsivivos com CSS. 
+Neste projeto foi recriado a interface do Netflix utilizando o Bootstrap para construção de layouts responsivivos.
+
+## Extensões
+
+**Live Serve** - cria um servidor
+
+**Color Highlight** - mostra a cor que vai ser utilizada no css 
 
 ## Links Úteis
 
