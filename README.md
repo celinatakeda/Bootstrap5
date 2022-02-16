@@ -8,7 +8,7 @@ Neste projeto foi recriado a interface do Netflix utilizando o Bootstrap para co
 
 **Live Serve** - cria um servidor
 
-**Color Highlight** - mostra a cor que vai ser utilizada no css 
+**Color Highlight** - destacar cores no css 
 
 ## Links Úteis
 
