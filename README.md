@@ -4,6 +4,8 @@ Projeto da mentoria com Vinicius Oliveira do bootcamp TakeBlip
 
 Neste projeto foi recriado a interface do Netflix utilizando o Bootstrap para construção de layouts responsivos.
 
+Na parte de perguntas frequentes foi utilizado o componente Accordion do Bootstrap.
+
 ## Extensões
 
 **Live Serve** - cria um servidor
