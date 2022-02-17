@@ -1,6 +1,6 @@
 # Recriando interfaces com Bootstrap5
 
-Projeto da mentoria com Vinicius Oliveira do bootcamp TakeBlip
+Projeto da mentoria com Vinicius Oliveira do bootcamp TakeBlip.
 
 Neste projeto foi recriado a interface do Netflix utilizando o Bootstrap para construção de layouts responsivos.
 
