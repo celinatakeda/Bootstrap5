@@ -1,5 +1,4 @@
 /* Variables */
-
 :root {
     /* Colors */
     --main-bg-color: #000;
@@ -21,13 +20,14 @@
     --fs-64: 64px;
 }
 
+/* CSS DEFAULTS */
 body {
     background: var(--main-bg-color);
     color: var(--main-text-color);
     font-family: 'Roboto', sans-serif;
 }
 
-/* Valores padrão para dispositivos móveis */
+/* Valores padrão para dispositivos móveis (mobile-first) */
 h1 {
     font-size: var(--fs-28);
     font-weight: 600;
@@ -52,6 +52,10 @@ h5 {
 .btn-danger {
     background: var(--main-red-color);
 }
+.btn h2 {
+    font-weight: 400;
+    margin: 0;
+}
 
 /* Custom Styles */
 .navbar {
@@ -68,6 +72,11 @@ h5 {
     letter-spacing: -2px;
 }
 
+.navbar button {
+    font-weight: 300;
+    padding: 4px 16px;
+}
+
 main {
     background: linear-gradient(
         to top, 
@@ -77,6 +86,7 @@ main {
         rgba(0, 0, 0, 0.8) 100%
         ), url("../assets/images/home.jpg");
     background-size: cover;
+    /* padding: 64px */
 }
 
 .main-content {
@@ -142,6 +152,52 @@ main {
     color: var(--main-text-color);
     font-size: var(--fs-18);
     font-weight: 500;
+}
+
+/* BREAKPOINT: Medium devices */
+@media (min-width: 768px) {
+    h1 {
+        font-size: var(--fs-48);
+    }
+
+    h2 {
+        font-size: var(--fs-24);
+    }
+    h3 {
+        font-size: var(--fs-18);
+    }
+
+    h5 {
+        font-size: var(--fs-16);
+    }
+
+    .navbar-brand {
+        font-size: var(--fs-32);
+    }
+
+    .main-content__input-container {
+        flex-direction: row;
+    }
+
+    .main-content__input-container input {
+        height: 60px;
+        padding: 16px 12px;
+    }
+
+    .main-content__input-container button {
+        height: 60px;
+        font-weight: 400;
+        font-size: var(--fs-32);
+    }
+
+    .main-content {
+        padding: 13rem 0;
+        max-width: 800px;
+    }
+
+    .benefits-section {
+        padding: 40px 40 px 56px 40px;
+    }
 }
 
 /* BREAKPOINT: Large devices */
