@@ -164,8 +164,6 @@ main {
     max-width: 800px;
 }
 
-
-
 /* BREAKPOINT: Medium devices */
 @media (min-width: 768px) {
     h1 {
