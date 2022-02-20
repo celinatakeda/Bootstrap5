@@ -153,6 +153,18 @@ main {
     font-size: var(--fs-18);
     font-weight: 500;
 }
+#accordion .card-body {
+    background: var(--main-grey-color);
+    border-radius: none;  
+    color: var(--main-text-color); 
+}
+
+#accordion .collapse {
+    background: var(--main-text-color);
+    max-width: 800px;
+}
+
+
 
 /* BREAKPOINT: Medium devices */
 @media (min-width: 768px) {
