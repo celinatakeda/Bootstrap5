@@ -14,6 +14,15 @@ Na parte de perguntas frequentes foi utilizado o componente Accordion do Bootstr
 
 **Color Highlight** - destacar cores no css 
 
+# Viual do projeto
+<p>
+ <img src=".github/imgNMobile.png">
+</p>
+
+<p>
+    <img src=".github/imgNWeb.png">
+</p>
+
 ## Links Úteis
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
