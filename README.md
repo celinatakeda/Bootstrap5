@@ -16,10 +16,6 @@ Na parte de perguntas frequentes foi utilizado o componente Accordion do Bootstr
 
 # Viual do projeto
 <p>
- <img src=".github/imgNMobile.png">
-</p>
-
-<p>
     <img src=".github/imgNWeb.png">
 </p>
 
